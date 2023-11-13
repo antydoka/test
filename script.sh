@@ -1,0 +1,3 @@
+Script_test
+
+:q
